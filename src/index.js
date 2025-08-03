@@ -14,6 +14,8 @@
 // 5:30 pm - fazar 
 // 6:30 pm - 39.9
 
+// 10 tar moddhe concep + 40.5 ses korbo
+
 
 
 

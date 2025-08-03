@@ -3,6 +3,7 @@ import './App.css'
 import Baller from './Baller'
 import Count from './Counter'
 import Batsman from './Batsman'
+import User from './User'
 
 function App() {
  
@@ -19,6 +20,7 @@ const addNum = (Num) => {
   return (
     <>
       <h1>Core React Concept 2</h1>
+      <User></User>
       <Baller></Baller>
       <Batsman></Batsman>
       <Count></Count>
